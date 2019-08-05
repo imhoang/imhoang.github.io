@@ -1,4 +1,4 @@
-title: "Markdown Guide"
+title: "Trần Khánh Hoàng"
 url: # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 
@@ -24,10 +24,10 @@ destination: ./_site
 
 # Author settings
 author:
-  name     : "Matt Cone"
+  name     : "Hoàng Trần"
 
 # social settings
-og_locale: "en_US"
+og_locale: "vi_VN"
 
 kramdown:
   syntax_highlighter: rouge
