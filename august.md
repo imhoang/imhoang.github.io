@@ -1,6 +1,6 @@
 ---
 layout: default
-title: August
+title: Tháng 8
 description: Báo cáo tháng Tám, 2019
 last_modified_at: 2019-07-30
 ---
